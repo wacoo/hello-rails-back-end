@@ -131,7 +131,7 @@ bundle install
 To start the project please run this commands:
 ```
 rails db:create db:migrate
-rails s -p 3001
+rails s
 ```
 ### Test
 To run the tests please run this command:
