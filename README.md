@@ -59,6 +59,9 @@ The app's core functionality lies in its API endpoint, which generates a random 
 
 Hello Rails Back-End offers developers the opportunity to explore and enhance the project further. This may involve expanding the greeting options, customizing the response structure, implementing authentication, or integrating additional APIs. These exercises deepen understanding and refine skills in building scalable web applications using Rails and React.
 
+**<a href="https://github.com/wacoo/hello-react-front-end">Hello Rails Back-End</a>**
+
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -128,7 +131,7 @@ bundle install
 To start the project please run this commands:
 ```
 rails db:create db:migrate
-rails s
+rails s -p 3001
 ```
 ### Test
 To run the tests please run this command:
