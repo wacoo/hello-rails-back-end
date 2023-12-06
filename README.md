@@ -47,7 +47,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Rails Front-End <a name="about-project"></a>
+# 📖 Hello Rails Back-End <a name="about-project"></a>
 
 
 
