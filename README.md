@@ -47,7 +47,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Rails Back-End <a name="about-project"></a>
+# 📖 Hello Rails Front-End <a name="about-project"></a>
 
 
 
@@ -58,6 +58,9 @@ The purpose of Hello Rails Back-End is to demonstrate the seamless integration b
 The app's core functionality lies in its API endpoint, which generates a random greeting. Whenever a client sends a request to the designated endpoint, the back-end selects a greeting from a predefined list and returns it as a JSON object. This showcases the versatility of Rails in handling API requests and generating JSON responses.
 
 Hello Rails Back-End offers developers the opportunity to explore and enhance the project further. This may involve expanding the greeting options, customizing the response structure, implementing authentication, or integrating additional APIs. These exercises deepen understanding and refine skills in building scalable web applications using Rails and React.
+
+**<a href="https://github.com/wacoo/hello-react-front-end">Hello Rails Back-End</a>**
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -128,7 +131,7 @@ bundle install
 To start the project please run this commands:
 ```
 rails db:create db:migrate
-rails s
+rails s -p 3001
 ```
 ### Test
 To run the tests please run this command:
